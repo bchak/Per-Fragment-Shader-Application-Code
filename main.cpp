@@ -46,8 +46,8 @@ GLuint
 	VboId,
 	NormalBufferId;
 
-const GLchar* VertexShader = filetobuf("shader1.vert");
-const GLchar* FragmentShader = filetobuf("shader1.frag");
+const GLchar* VertexShader = filetobuf("shader.vert");
+const GLchar* FragmentShader = filetobuf("shader.frag");
 
 void Initialize(int, char*[]);
 void InitWindow(int, char*[]);

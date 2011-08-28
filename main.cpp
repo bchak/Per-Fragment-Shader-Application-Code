@@ -1,6 +1,6 @@
 /*	This is a small OpenGL 4.1 program that I wrote for learning how to render objects and write shaders.
 
-    Copyright (C) 2011  Jesse Duarte
+    Copyright (C) 2011  Jesse 
     http://www.youtube.com/user/GraphicsProgrammer
 
     This program is free software: you can redistribute it and/or modify
